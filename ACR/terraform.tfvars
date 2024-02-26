@@ -3,6 +3,6 @@ location = "eastus"
 
 tags = {
   "DeployedBy"  = "Terraform"
-  "Environment" = "production"
+  "Environment" = "dev"
   "Project"     = "billingreview"
 }
