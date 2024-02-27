@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "review" {
   name     = "${var.name}-as-rg"
-  location =  var.location
+  location = var.location
 }
 
 resource "azurerm_app_service_plan" "review" {
